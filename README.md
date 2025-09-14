@@ -1,4 +1,4 @@
-# backtest-engine
+# Backtest Engine
 Python backtesting engine to simulate and evaluate trading strategies on historical data.
 
 ## Features
